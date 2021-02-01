@@ -1,25 +1,52 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
+import { Layout, Menu } from 'antd';
+import 'antd/dist/antd.css';
 
-function App() {
+import { MapboxContainer } from './modules/mapbox/mapbox-container';
+import { useStyles } from './app.styles';
+
+const { Header, Content, Footer } = Layout;
+
+const App = () => {
+  const { root } = useStyles();
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Router>
+        <Layout className="layout">
+          <Header>
+            <div className="logo" />
+            <Menu theme="dark" mode="horizontal" defaultSelectedKeys={['1']}>
+              <Menu.Item key="1">
+                <Link to="/">Mapbox</Link>
+              </Menu.Item>
+              <Menu.Item key="2">
+                <Link to="/leaflet">Leaflet</Link>
+              </Menu.Item>
+              <Menu.Item key="3">
+                <Link to="/simple-maps">Simple Maps</Link>
+              </Menu.Item>
+            </Menu>
+          </Header>
+          <Content style={{ padding: '0 50px' }} className={root}>
+            <div className="site-layout-content">
+              <Switch>
+                <Route exact path="/">
+                  <MapboxContainer />
+                </Route>
+                <Route path="/leaflet">
+                  <div>Leaflet</div>
+                </Route>
+                <Route path="/simple-maps">
+                  <div>Simple Maps</div>
+                </Route>
+              </Switch>
+            </div>
+          </Content>
+          <Footer style={{ textAlign: 'center' }}>Map Libraries POC</Footer>
+        </Layout>
+      </Router>
     </div>
   );
-}
+};
 
 export default App;

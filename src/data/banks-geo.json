@@ -1,0 +1,5911 @@
+{
+  "type":"FeatureCollection",
+  "name":"VT_Data_-_Banks__FDIC-Insured_Institutions__and_Credit_Unions",
+  "crs":{
+    "type":"name",
+    "properties":{
+      "name":"urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features":[
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":1,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"221 Main Street",
+        "NAMEFULL":"THE BRATTLEBORO SAVINGS AND LOAN ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.559353156274824,
+          42.855197016550392
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":2,
+        "BRSERTYP":"Full Service, retail office",
+        "ADDRESS":"9 Main Street",
+        "NAMEFULL":"LAKE SUNAPEE BANK, FEDERAL SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.663875160718618,
+          43.922730014414675
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":3,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"1 Citizens Plaza",
+        "NAMEFULL":"CITIZENS BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.156937160085761,
+          44.002890013157682
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":4,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"155 North Street",
+        "NAMEFULL":"THE BANK OF BENNINGTON",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.19699515567531,
+          42.880188014890265
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":5,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"145 Broad Street",
+        "NAMEFULL":"CLAREMONT SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.481788158150962,
+          43.297224016094816
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":6,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"4811 U.S. Route 5",
+        "NAMEFULL":"COMMUNITY NATIONAL BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -71.803692164208982,
+          44.785830014876076
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":7,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"67 North Park Street",
+        "NAMEFULL":"MASCOMA SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.496744157963846,
+          43.308797015617955
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":8,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"127 Public Square",
+        "NAMEFULL":"KEYBANK NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.505373161736827,
+          44.200503014294306
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":9,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.196806156248456,
+          42.878252015532532
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":10,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"67 North Park Street",
+        "NAMEFULL":"MASCOMA SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.631257159945662,
+          43.829112015029331
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":11,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"9 Main Street",
+        "NAMEFULL":"LAKE SUNAPEE BANK, FEDERAL SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.087844159817365,
+          43.798227013987557
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":12,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.55809115697916,
+          42.852293016235436
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":13,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.21481016220288,
+          44.475832012714555
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":14,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.154729161832606,
+          44.461257012852386
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":15,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"497 Railroad Street",
+        "NAMEFULL":"PASSUMPSIC SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.141344162419088,
+          44.411432015334576
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":16,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"4811 U.S. Route 5",
+        "NAMEFULL":"COMMUNITY NATIONAL BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.163691165244259,
+          44.950764014552618
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":17,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.265554158721415,
+          43.59363701379079
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":18,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.275719158621357,
+          43.603392014176414
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":19,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"24 North Street",
+        "NAMEFULL":"BERKSHIRE BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.056272157016153,
+          43.177043015361477
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":20,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"30 Main Street",
+        "NAMEFULL":"THE NATIONAL BANK OF MIDDLEBURY",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.16815915956056,
+          44.014149013787232
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":21,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.657496160552583,
+          44.148700014727495
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":22,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"441 Main Street",
+        "NAMEFULL":"THE FIRST NATIONAL BANK OF ORWELL",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.301272159621917,
+          43.803489013185533
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":23,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"9 Main Street",
+        "NAMEFULL":"LAKE SUNAPEE BANK, FEDERAL SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.664899160523177,
+          43.922973014275343
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":24,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.518444159527604,
+          43.625698015369501
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":25,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.318459159172733,
+          43.651743015962836
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":26,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.699718161646658,
+          44.474123013774495
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":27,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"1 Citizens Plaza",
+        "NAMEFULL":"CITIZENS BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.918558157420932,
+          43.169472015473943
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":28,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"9 Main Street",
+        "NAMEFULL":"LAKE SUNAPEE BANK, FEDERAL SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.516094158769576,
+          43.626204015047676
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":29,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"320 Main Street",
+        "NAMEFULL":"LEDYARD NATIONAL BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.308496159377469,
+          43.714717015933964
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":30,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.579918161163476,
+          44.261093014120185
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":31,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.80482416382641,
+          44.907845013121396
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":32,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"127 Public Square",
+        "NAMEFULL":"KEYBANK NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.213841161208279,
+          44.478122012707182
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":33,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"1 Citizens Plaza",
+        "NAMEFULL":"CITIZENS BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.980648158533668,
+          43.608032014448071
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":34,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"497 Railroad Street",
+        "NAMEFULL":"PASSUMPSIC SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.015448162547003,
+          44.419708015046872
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":35,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"34 Main Street",
+        "NAMEFULL":"WELLS RIVER SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.046663161384203,
+          44.15326801518853
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":36,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"33 South Main Street",
+        "NAMEFULL":"NORTHFIELD SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.656027161415949,
+          44.149299014499448
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":37,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.507366161419924,
+          44.202199014122804
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":38,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.500955161481173,
+          44.194478014935285
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":39,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.444282157628805,
+          43.134029016416498
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":40,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.559203156892892,
+          42.854957016101366
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":41,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.216761161039898,
+          44.477286013219995
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":42,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.681131162800853,
+          44.635853013628108
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":43,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"4811 U.S. Route 5",
+        "NAMEFULL":"COMMUNITY NATIONAL BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.002900162891009,
+          44.534159015042206
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":44,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"20 Lower Main Street",
+        "NAMEFULL":"UNION BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.598973162233179,
+          44.56163601355923
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":45,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.083449163316715,
+          44.810956012178835
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":46,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"25 Kingman Street",
+        "NAMEFULL":"PEOPLES TRUST COMPANY OF ST. ALBANS",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.084308162806693,
+          44.812267012171766
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":47,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"20 Lower Main Street",
+        "NAMEFULL":"UNION BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.015816162608616,
+          44.417880015065485
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":48,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.755999161716929,
+          44.337412013851228
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":49,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.12816516170993,
+          43.993614015810188
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":50,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"67 North Park Street",
+        "NAMEFULL":"MASCOMA SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.447784160172048,
+          43.98839301466235
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":51,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.188814160998703,
+          43.81072201531245
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":52,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"9 Main Street",
+        "NAMEFULL":"LAKE SUNAPEE BANK, FEDERAL SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.030769159326013,
+          43.708803014296173
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":53,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"1 Citizens Plaza",
+        "NAMEFULL":"CITIZENS BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.198338155567896,
+          42.879005014908095
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":54,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.593955157696598,
+          43.262573015369732
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":55,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.655056157426387,
+          42.986640016215993
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":56,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.481996158704249,
+          43.299368016241871
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":57,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.868892156332961,
+          42.867033015906884
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":58,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.385884158717985,
+          43.481099015735033
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":59,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.518704159154211,
+          43.6249300156244
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":60,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"24 North Street",
+        "NAMEFULL":"BERKSHIRE BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.700241158653029,
+          43.396062014878432
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":61,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.565285156760368,
+          42.838811016587051
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":62,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"1 Citizens Plaza",
+        "NAMEFULL":"CITIZENS BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.560157156357931,
+          42.877509015900749
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":63,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"1 Citizens Plaza",
+        "NAMEFULL":"CITIZENS BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.576929161309948,
+          44.258347014214472
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":64,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"1 Citizens Plaza",
+        "NAMEFULL":"CITIZENS BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.21033916110521,
+          44.438083012817039
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":65,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"1 Citizens Plaza",
+        "NAMEFULL":"CITIZENS BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.112051161573746,
+          44.451314012729007
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":66,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"1 Citizens Plaza",
+        "NAMEFULL":"CITIZENS BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.119874161596343,
+          44.494313013182868
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":67,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.979155158811295,
+          43.607987014941735
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":68,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"1 Citizens Plaza",
+        "NAMEFULL":"CITIZENS BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.087377163371926,
+          44.803430012409933
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":69,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.504860161879336,
+          44.200035014719624
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":70,
+        "BRSERTYP":"Full Service, retail office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.184556161190187,
+          44.510610012611423
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":71,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.179326164141258,
+          44.75052401441436
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":72,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.804463164322044,
+          44.90856501303459
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":73,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.110524161656699,
+          44.490866013035209
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":74,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.993479161334506,
+          44.404365012950578
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":75,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.016118162298952,
+          44.416879015193032
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":76,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.185221161244627,
+          44.491386013275623
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":77,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.226726161112268,
+          44.382992013080553
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":78,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.575267160997385,
+          44.260229014720785
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":79,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.835609160723237,
+          44.184924014338833
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":80,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.06439516248372,
+          44.511097012787936
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":81,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.111232161095543,
+          44.446494012953067
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":82,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.15291316111734,
+          44.462373012890353
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":83,
+        "BRSERTYP":"Limited Service, drive-through facility",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.574318161596281,
+          44.261010013987558
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":84,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.116915161862863,
+          44.492874012974767
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":85,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.17133716212436,
+          44.466882013034763
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":86,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.241324162173683,
+          44.504324012821222
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":87,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.080247160345309,
+          44.133482013350196
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":88,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.302698162313376,
+          44.64574701242374
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":89,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.209820161700591,
+          44.443054013125987
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":90,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.11782816097022,
+          44.341143012840902
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":91,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.183854161906368,
+          44.499405012502308
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":92,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.246924160645037,
+          44.171076013011799
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":93,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.213352162236049,
+          44.477097012621449
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":94,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.964718158930367,
+          43.613637014489463
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":95,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.373633163279877,
+          44.513321014588939
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":96,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.006235163086913,
+          44.420867015590197
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":97,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"4811 U.S. Route 5",
+        "NAMEFULL":"COMMUNITY NATIONAL BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.09997416444628,
+          45.004859013976194
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":98,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"4811 U.S. Route 5",
+        "NAMEFULL":"COMMUNITY NATIONAL BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.180354164076846,
+          44.749572014028395
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":99,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"4811 U.S. Route 5",
+        "NAMEFULL":"COMMUNITY NATIONAL BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.208562164199208,
+          44.936066013962282
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":100,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"4811 U.S. Route 5",
+        "NAMEFULL":"COMMUNITY NATIONAL BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.405497163950344,
+          44.904807013449798
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":101,
+        "BRSERTYP":"Full Service, retail office",
+        "ADDRESS":"4811 U.S. Route 5",
+        "NAMEFULL":"COMMUNITY NATIONAL BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.015329162309399,
+          44.443953015396922
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":102,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"24 North Street",
+        "NAMEFULL":"BERKSHIRE BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.099180157274773,
+          43.254684015005274
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":103,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"24 North Street",
+        "NAMEFULL":"BERKSHIRE BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.048946156723161,
+          43.167900014866063
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":104,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"24 North Street",
+        "NAMEFULL":"BERKSHIRE BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.154349156116396,
+          43.073676014872568
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":105,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"24 North Street",
+        "NAMEFULL":"BERKSHIRE BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.969296158171588,
+          43.609829014548609
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":106,
+        "BRSERTYP":"Limited Service, drive-through facility",
+        "ADDRESS":"30 Main Street",
+        "NAMEFULL":"THE NATIONAL BANK OF MIDDLEBURY",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.168506160541199,
+          44.01593801374171
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":107,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"30 Main Street",
+        "NAMEFULL":"THE NATIONAL BANK OF MIDDLEBURY",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.154980160078736,
+          44.003063013633664
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":108,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"30 Main Street",
+        "NAMEFULL":"THE NATIONAL BANK OF MIDDLEBURY",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.076607160607281,
+          44.132892013933336
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":109,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.054748157494529,
+          43.177472014912084
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":110,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.558939157135597,
+          42.854292016711817
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":111,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.863098156268819,
+          42.86553301545861
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":112,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"9 Main Street",
+        "NAMEFULL":"LAKE SUNAPEE BANK, FEDERAL SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.808388160241165,
+          43.8756980144246
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":113,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"9 Main Street",
+        "NAMEFULL":"LAKE SUNAPEE BANK, FEDERAL SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.519808160034941,
+          43.805294015074132
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":114,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"9 Main Street",
+        "NAMEFULL":"LAKE SUNAPEE BANK, FEDERAL SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.596611160167697,
+          43.823643015155305
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":115,
+        "BRSERTYP":"Limited Service, drive-through facility",
+        "ADDRESS":"9 Main Street",
+        "NAMEFULL":"LAKE SUNAPEE BANK, FEDERAL SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.66392016022364,
+          43.910876014643236
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":116,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.492945158288506,
+          43.303642016078065
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":117,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"127 Public Square",
+        "NAMEFULL":"KEYBANK NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.244793161780336,
+          44.506849012757336
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":118,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"127 Public Square",
+        "NAMEFULL":"KEYBANK NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.115044161961862,
+          44.491944013005515
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":119,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"127 Public Square",
+        "NAMEFULL":"KEYBANK NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.558669156301946,
+          42.853642016213364
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":120,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"127 Public Square",
+        "NAMEFULL":"KEYBANK NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.209803161714518,
+          44.442546013280413
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":121,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"127 Public Square",
+        "NAMEFULL":"KEYBANK NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.159866160343952,
+          44.004409013406551
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":122,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"127 Public Square",
+        "NAMEFULL":"KEYBANK NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.080744163367882,
+          44.836898012515043
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":123,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"127 Public Square",
+        "NAMEFULL":"KEYBANK NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.154699161714433,
+          44.463113012502156
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":124,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"127 Public Square",
+        "NAMEFULL":"KEYBANK NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.117416162420085,
+          44.626262012401241
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":125,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"127 Public Square",
+        "NAMEFULL":"KEYBANK NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.978298159205806,
+          43.608013014904934
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":126,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"1 Citizens Plaza",
+        "NAMEFULL":"CITIZENS BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.317874159667284,
+          43.651626015897904
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":127,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"1 Citizens Plaza",
+        "NAMEFULL":"CITIZENS BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.492945158288506,
+          43.303642016078065
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":128,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"1 Citizens Plaza",
+        "NAMEFULL":"CITIZENS BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.506462158936145,
+          43.627825015240937
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":129,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"1 Citizens Plaza",
+        "NAMEFULL":"CITIZENS BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.22630516065793,
+          44.384122013351821
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":130,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"1 Citizens Plaza",
+        "NAMEFULL":"CITIZENS BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.178264158070974,
+          43.611602013984097
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":131,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.054835156827139,
+          43.177517014626211
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":132,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.703512158694068,
+          43.395897015261681
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":133,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.965516159222204,
+          43.613224014963819
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":134,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.198188156060723,
+          42.894087015465985
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":135,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"497 Railroad Street",
+        "NAMEFULL":"PASSUMPSIC SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.203357164176978,
+          44.941757014029747
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":136,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"497 Railroad Street",
+        "NAMEFULL":"PASSUMPSIC SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.00135116275203,
+          44.520296015239779
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":137,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"497 Railroad Street",
+        "NAMEFULL":"PASSUMPSIC SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.015727162988298,
+          44.45057101540403
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":138,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"34 Main Street",
+        "NAMEFULL":"WELLS RIVER SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.128039161628578,
+          43.995206015191997
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":139,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"34 Main Street",
+        "NAMEFULL":"WELLS RIVER SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.046507162325057,
+          44.152919015808102
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":140,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"33 South Main Street",
+        "NAMEFULL":"NORTHFIELD SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.504913161334557,
+          44.20014401492157
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":141,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"33 South Main Street",
+        "NAMEFULL":"NORTHFIELD SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.755723162254981,
+          44.337057013596379
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":142,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"33 South Main Street",
+        "NAMEFULL":"NORTHFIELD SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.664968160228511,
+          43.922921015055067
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":143,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"33 South Main Street",
+        "NAMEFULL":"NORTHFIELD SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.578537161823846,
+          44.260783014720054
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":144,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"33 South Main Street",
+        "NAMEFULL":"NORTHFIELD SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.49838016135763,
+          44.189470014772553
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":145,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"33 South Main Street",
+        "NAMEFULL":"NORTHFIELD SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.601970160458535,
+          43.823472014495024
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":146,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"33 South Main Street",
+        "NAMEFULL":"NORTHFIELD SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.83931216071673,
+          44.18337901429998
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":147,
+        "BRSERTYP":"Limited Service, drive-through facility",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.503964162057443,
+          44.198865014368288
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":148,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.522354157498754,
+          42.96978601600113
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":149,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.799600157233101,
+          43.226522015716945
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":150,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.444176157299239,
+          43.132408015828887
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":151,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.194680156393389,
+          42.878137014974769
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":152,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.595750157973526,
+          43.263375015836417
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":153,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.057045156863694,
+          43.177668014790363
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":154,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.980334158639707,
+          43.606710014146827
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":155,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.972817158796332,
+          43.611536014219055
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":156,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.559124157152382,
+          42.880153016427649
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":157,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.158318160427456,
+          44.003639013261768
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":158,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.207138164390969,
+          44.936437014392851
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":159,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.210020161974001,
+          44.441203012777315
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":160,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.124410162796167,
+          44.919716012605683
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":161,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.253064161049636,
+          44.167707013312402
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":162,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.226278161004501,
+          44.379122012893632
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":163,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.13774416165127,
+          44.504512012620751
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":164,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.181409161730755,
+          44.467293013305195
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":165,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.229466161344007,
+          44.550577012876971
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":166,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.838298160957493,
+          44.184471013785611
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":167,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.117785162636181,
+          44.625353012969605
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":168,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.12471116098969,
+          44.252136013218632
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":169,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.11314316171385,
+          44.45430301264966
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":170,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.593062162548833,
+          44.574639014063628
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":171,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.082404162983224,
+          44.81626301259071
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":172,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.686619161682273,
+          44.465457013746089
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":173,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.593026163278225,
+          44.574686013553574
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":174,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.97001216263962,
+          44.509957013567039
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":175,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.248831162244585,
+          44.538053012937674
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":176,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"4811 U.S. Route 5",
+        "NAMEFULL":"COMMUNITY NATIONAL BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.000708162607424,
+          44.526139014972522
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":177,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"4811 U.S. Route 5",
+        "NAMEFULL":"COMMUNITY NATIONAL BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.016558162753412,
+          44.41621701550973
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":178,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"4811 U.S. Route 5",
+        "NAMEFULL":"COMMUNITY NATIONAL BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.796610163328808,
+          44.913506012649798
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":179,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"20 Lower Main Street",
+        "NAMEFULL":"UNION BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.829129162410155,
+          44.644345013508165
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":180,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"20 Lower Main Street",
+        "NAMEFULL":"UNION BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.685483162624479,
+          44.464649014060129
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":181,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"20 Lower Main Street",
+        "NAMEFULL":"UNION BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.594216162409765,
+          44.571709013667387
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":182,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"20 Lower Main Street",
+        "NAMEFULL":"UNION BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.682788162269389,
+          44.636447013246389
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":183,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"20 Lower Main Street",
+        "NAMEFULL":"UNION BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.373724162806184,
+          44.513863014320727
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":184,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"1 Citizens Plaza",
+        "NAMEFULL":"CITIZENS BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.236502158192621,
+          43.51705101369906
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":185,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"1 Citizens Plaza",
+        "NAMEFULL":"CITIZENS BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.247182157172674,
+          43.405536014024158
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":186,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.673012164320923,
+          44.994852012780576
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":187,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.117176162353061,
+          44.626903012867039
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":188,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.082200162784147,
+          44.83901401251746
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":189,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"2035 Limestone Road",
+        "NAMEFULL":"TD BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.12316216311531,
+          44.919057012773585
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":190,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"25 Kingman Street",
+        "NAMEFULL":"PEOPLES TRUST COMPANY OF ST. ALBANS",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.10762716270844,
+          44.695400013019572
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":191,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"20 Lower Main Street",
+        "NAMEFULL":"UNION BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.009304162572221,
+          44.420546014891919
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":192,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"20 Lower Main Street",
+        "NAMEFULL":"UNION BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.00155516287839,
+          44.534217015476287
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":193,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"67 North Park Street",
+        "NAMEFULL":"MASCOMA SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.308448160318235,
+          43.714161015666797
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":194,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"67 North Park Street",
+        "NAMEFULL":"MASCOMA SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.315498160205806,
+          43.650869016012649
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":195,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"67 North Park Street",
+        "NAMEFULL":"MASCOMA SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.330932119520483,
+          43.644696785591989
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":196,
+        "BRSERTYP":"Full Service, retail office",
+        "ADDRESS":"67 North Park Street",
+        "NAMEFULL":"MASCOMA SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.371894720420372,
+          43.831892555128931
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":197,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"67 North Park Street",
+        "NAMEFULL":"MASCOMA SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.399613158649899,
+          43.541154015270699
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":198,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.753389161750263,
+          44.33486201384018
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":199,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"1 Citizens Plaza",
+        "NAMEFULL":"CITIZENS BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.252094160364564,
+          44.167848013004935
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":200,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"850 Main Street",
+        "NAMEFULL":"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.242904161914566,
+          44.505483012857013
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":201,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"1 Citizens Plaza",
+        "NAMEFULL":"CITIZENS BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.213812161488647,
+          44.477087012838929
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":202,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.968308158836123,
+          43.586584014329794
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":203,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"497 Railroad Street",
+        "NAMEFULL":"PASSUMPSIC SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -71.879752164970853,
+          44.814739015268493
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":204,
+        "BRSERTYP":"Limited Service, drive-through facility",
+        "ADDRESS":"9 Main Street",
+        "NAMEFULL":"LAKE SUNAPEE BANK, FEDERAL SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.618999158665829,
+          43.586719015133724
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":205,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"4811 U.S. Route 5",
+        "NAMEFULL":"COMMUNITY NATIONAL BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.578526161855066,
+          44.260837013994667
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":206,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"34 Main Street",
+        "NAMEFULL":"WELLS RIVER SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.140609161281745,
+          43.90859301544571
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":207,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"25 Kingman Street",
+        "NAMEFULL":"PEOPLES TRUST COMPANY OF ST. ALBANS",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.113236163878454,
+          44.921147012324454
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":208,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.080440163356116,
+          44.836333012196292
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":209,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"20 Lower Main Street",
+        "NAMEFULL":"UNION BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.009913162055,
+          44.65362801268035
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":210,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"33 South Main Street",
+        "NAMEFULL":"NORTHFIELD SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.118758162169044,
+          44.493865013234618
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":211,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.334285159803684,
+          43.646011015985898
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":212,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"25 Kingman Street",
+        "NAMEFULL":"PEOPLES TRUST COMPANY OF ST. ALBANS",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.078454163452832,
+          44.836634012715258
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":213,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"25 Kingman Street",
+        "NAMEFULL":"PEOPLES TRUST COMPANY OF ST. ALBANS",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.80618116420024,
+          44.90503301337877
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":214,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"33 South Main Street",
+        "NAMEFULL":"NORTHFIELD SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.213432161774193,
+          44.477097012399355
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":215,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"33 South Main Street",
+        "NAMEFULL":"NORTHFIELD SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.210314161275292,
+          44.437566012442652
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":216,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"33 South Main Street",
+        "NAMEFULL":"NORTHFIELD SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.111423161032377,
+          44.447146013371565
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":217,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"9 Main Street",
+        "NAMEFULL":"LAKE SUNAPEE BANK, FEDERAL SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.046988158522325,
+          43.593975014583101
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":218,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"9 Main Street",
+        "NAMEFULL":"LAKE SUNAPEE BANK, FEDERAL SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.541533160642942,
+          44.122147014940396
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":219,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"4811 U.S. Route 5",
+        "NAMEFULL":"COMMUNITY NATIONAL BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.505521161457935,
+          44.20054601422418
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":220,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"127 Public Square",
+        "NAMEFULL":"KEYBANK NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.111596161073464,
+          44.449460013486252
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":221,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"9 Main Street",
+        "NAMEFULL":"LAKE SUNAPEE BANK, FEDERAL SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.421279159011291,
+          43.64811001515627
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":222,
+        "BRSERTYP":"Limited Service, drive-through facility",
+        "ADDRESS":"1 Citizens Plaza",
+        "NAMEFULL":"CITIZENS BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.980648158533668,
+          43.608032014448071
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":223,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"33 South Main Street",
+        "NAMEFULL":"NORTHFIELD SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.178148161246696,
+          44.468322012519948
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":224,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.743825161562782,
+          44.349364013509941
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":225,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"67 North Park Street",
+        "NAMEFULL":"MASCOMA SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.386473159548061,
+          43.479887015413695
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":226,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"67 North Park Street",
+        "NAMEFULL":"MASCOMA SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.505160159138256,
+          43.631294015309109
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":227,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"4811 U.S. Route 5",
+        "NAMEFULL":"COMMUNITY NATIONAL BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.594147162305845,
+          44.576685013983045
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":228,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"25 Kingman Street",
+        "NAMEFULL":"PEOPLES TRUST COMPANY OF ST. ALBANS",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.085357161619754,
+          44.507834013299025
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":229,
+        "BRSERTYP":"Limited Service, drive-through facility",
+        "ADDRESS":"441 Main Street",
+        "NAMEFULL":"THE FIRST NATIONAL BANK OF ORWELL",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.308439159669263,
+          43.899105013380399
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":230,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"34 Main Street",
+        "NAMEFULL":"WELLS RIVER SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.189187160713715,
+          43.812961015820733
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":231,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"20 Lower Main Street",
+        "NAMEFULL":"UNION BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.132771163235518,
+          44.414186014728315
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":232,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"30 Main Street",
+        "NAMEFULL":"THE NATIONAL BANK OF MIDDLEBURY",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.251547160166325,
+          44.16754101323793
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":233,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"20 Lower Main Street",
+        "NAMEFULL":"UNION BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.074096162966967,
+          44.792792012710677
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":234,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"9 Main Street",
+        "NAMEFULL":"LAKE SUNAPEE BANK, FEDERAL SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.964071158795605,
+          43.613999014312846
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":235,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"155 North Street",
+        "NAMEFULL":"THE BANK OF BENNINGTON",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.049634156631043,
+          43.174298014544092
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":236,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"1 Sarnowski Drive",
+        "NAMEFULL":"TRUSTCO BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.19691415627544,
+          42.882269014992758
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":237,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"34 Main Street",
+        "NAMEFULL":"WELLS RIVER SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.057639161075883,
+          44.079344015286047
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":238,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"30 Main Street",
+        "NAMEFULL":"THE NATIONAL BANK OF MIDDLEBURY",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.087125159417681,
+          43.797594014254805
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":239,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"52 South Broad Street",
+        "NAMEFULL":"NBT BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.980678158596504,
+          43.607773014382154
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":240,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"155 North Street",
+        "NAMEFULL":"THE BANK OF BENNINGTON",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.157414157017726,
+          43.065030015142462
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":241,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"30 Main Street",
+        "NAMEFULL":"THE NATIONAL BANK OF MIDDLEBURY",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.109300160777707,
+          44.335002013574261
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":242,
+        "BRSERTYP":"Full Service, retail office",
+        "ADDRESS":"155 North Street",
+        "NAMEFULL":"THE BANK OF BENNINGTON",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.216726156386486,
+          42.904175014838117
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":243,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"52 South Broad Street",
+        "NAMEFULL":"NBT BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.101907162224649,
+          44.497723012947773
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":244,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"9 Main Street",
+        "NAMEFULL":"LAKE SUNAPEE BANK, FEDERAL SAVINGS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.067915158950768,
+          43.786347014249543
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":245,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"52 South Broad Street",
+        "NAMEFULL":"NBT BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.213782160999656,
+          44.478187012880774
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":246,
+        "BRSERTYP":"Limited Service, trust office",
+        "ADDRESS":"1100 North Market Street, Rodney Square North",
+        "NAMEFULL":"WILMINGTON TRUST, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.218393161774216,
+          44.475757012862147
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":247,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"52 South Broad Street",
+        "NAMEFULL":"NBT BANK, NATIONAL ASSOCIATION",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.109846161485507,
+          44.449455013076538
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":248,
+        "BRSERTYP":"Full Service, brick and mortar office",
+        "ADDRESS":"275 Kennedy Drive",
+        "NAMEFULL":"MERCHANTS BANK",
+        "INSTTYPE":"BANK"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.209883155443649,
+          42.899425015417229
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":249,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"215 N Main St",
+        "NAMEFULL":"VERMONT VA",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.322477159555234,
+          43.650294015937284
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":250,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"1285 VA Cutoff RD",
+        "NAMEFULL":"VERMONT VA",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.345096159915215,
+          43.646670016303553
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":251,
+        "BRSERTYP":"Other",
+        "ADDRESS":"614 N Hartland Rd",
+        "NAMEFULL":"VERMONT VA",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.345546158793752,
+          43.645165015373934
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":252,
+        "BRSERTYP":"Other",
+        "ADDRESS":"1000 River St",
+        "NAMEFULL":"NEW ENGLAND",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.095358162556991,
+          44.483425012851967
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":253,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"295 Tuckers Way",
+        "NAMEFULL":"NEW ENGLAND",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.086193163165191,
+          44.845131012475704
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":254,
+        "BRSERTYP":"Other",
+        "ADDRESS":"1 S Prospect St",
+        "NAMEFULL":"NEW ENGLAND",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.20063416078915,
+          44.480661012301198
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":255,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"1000 Shelburne Rd",
+        "NAMEFULL":"NEW ENGLAND",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.209909161750488,
+          44.441316013155514
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":256,
+        "BRSERTYP":"Other",
+        "ADDRESS":"172 S Main St",
+        "NAMEFULL":"NEW ENGLAND",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.089971163668054,
+          44.800216012117517
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":257,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"150 Watertower Cir",
+        "NAMEFULL":"NEW ENGLAND",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.182375161795463,
+          44.510798012796876
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":258,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"1000 River St",
+        "NAMEFULL":"NEW ENGLAND",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.095358162556991,
+          44.483425012851967
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":259,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"FAHC Medical Center-McClure 2 Connector",
+        "NAMEFULL":"NEW ENGLAND",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.195619161753157,
+          44.480929012927199
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":260,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"141 Harvest Ln",
+        "NAMEFULL":"NEW ENGLAND",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.117814161859428,
+          44.451046012576462
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":261,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"74 Pearl St",
+        "NAMEFULL":"NEW ENGLAND",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.118226161780484,
+          44.493537012633837
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":262,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"401 Gage St",
+        "NAMEFULL":"BENNINGTON E\/E",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.190491156129198,
+          42.881486015660904
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":263,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"17 Hunt St",
+        "NAMEFULL":"BENNINGTON E\/E",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.205871156200686,
+          42.893518015503041
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":264,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"130 Hospital Dr",
+        "NAMEFULL":"VERMONT STATE EMPLOYEES",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.2090701563544,
+          42.872482014705227
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":265,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"1036 Memorial Dr",
+        "NAMEFULL":"VERMONT STATE EMPLOYEES",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.015798163270929,
+          44.447057015804447
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":266,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"499 Canal St",
+        "NAMEFULL":"VERMONT STATE EMPLOYEES",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.565259156434038,
+          42.83865701686409
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":267,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"1028 US Route 2 # 302-BERLIN",
+        "NAMEFULL":"VERMONT STATE EMPLOYEES",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.688334162180411,
+          44.29806301427805
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":268,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"1 Bailey Ave",
+        "NAMEFULL":"VERMONT STATE EMPLOYEES",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.584576161840985,
+          44.262303013881194
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":269,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"1755 Essex Rd",
+        "NAMEFULL":"VERMONT STATE EMPLOYEES",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.111841161095782,
+          44.457226012718223
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":270,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"72 Seward Rd",
+        "NAMEFULL":"VERMONT STATE EMPLOYEES",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.966659159260743,
+          43.585553014509657
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":271,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"365 Paine Tpke N",
+        "NAMEFULL":"VERMONT STATE EMPLOYEES",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.573946160838929,
+          44.214662014332873
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":272,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"86 Pearl St",
+        "NAMEFULL":"VERMONT STATE EMPLOYEES",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.215996161608217,
+          44.480370012799391
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":273,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"27 S Main St",
+        "NAMEFULL":"VERMONT STATE EMPLOYEES",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.75562616122059,
+          44.336966014294951
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":274,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"21 Water St",
+        "NAMEFULL":"NORTH COUNTRY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.201954163314298,
+          44.810386014462118
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":275,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"69 Swift St",
+        "NAMEFULL":"NORTH COUNTRY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.206199161638352,
+          44.445697012703491
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":276,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"39 Lower Mountain View Dr",
+        "NAMEFULL":"NORTH COUNTRY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.179605161977747,
+          44.507111012694317
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":277,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"3336 Airport Rd",
+        "NAMEFULL":"NORTH COUNTRY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.558304162028705,
+          44.216977015209849
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":278,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"1049 North Ave",
+        "NAMEFULL":"NORTH COUNTRY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.242813161894247,
+          44.505355012971215
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":279,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"1474 E Main St",
+        "NAMEFULL":"NORTH COUNTRY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.17743316432572,
+          44.946207014103464
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":280,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"3 S Main St",
+        "NAMEFULL":"NORTH COUNTRY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.300347163385155,
+          44.976102011336877
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":281,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"80 Midas Dr Ste 100",
+        "NAMEFULL":"VERMONT",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.173557161339872,
+          44.466019012628848
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":282,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"55 Old Orchard Rd",
+        "NAMEFULL":"VERMONT",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.078935163748284,
+          44.82989801246616
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":283,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"100 Panton Rd",
+        "NAMEFULL":"VERMONT",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.263686160453304,
+          44.162904013297272
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":284,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"133 N Main St",
+        "NAMEFULL":"VERMONT",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.082764162888282,
+          44.814458012163712
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":285,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"84 Pine St",
+        "NAMEFULL":"VERMONT",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.21564916081779,
+          44.477485012402063
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":286,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"1 Court St",
+        "NAMEFULL":"VERMONT",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.165483160674583,
+          44.013871013013009
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":287,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"4 Centre Dr",
+        "NAMEFULL":"VERMONT",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.122229162094484,
+          44.620043012658044
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":288,
+        "BRSERTYP":"Other",
+        "ADDRESS":"11 Morse Dr",
+        "NAMEFULL":"VERMONT",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.136499161462737,
+          44.509519013285299
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":289,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"265 S Main St",
+        "NAMEFULL":"MEMBERS ADVANTAGE COMMUNITY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.499306161944091,
+          44.183514013753395
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":290,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"50 White St",
+        "NAMEFULL":"MEMBERS ADVANTAGE COMMUNITY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.173692161578288,
+          44.467661013043077
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":291,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"614 N Hartland Rd",
+        "NAMEFULL":"MEMBERS ADVANTAGE COMMUNITY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.345546158793752,
+          43.645165015373934
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":292,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"600 VT Route 30",
+        "NAMEFULL":"RIVER VALLEY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.658092157338487,
+          43.02843401547689
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":293,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"52 Main St Ste 1",
+        "NAMEFULL":"RIVER VALLEY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.522501156892005,
+          42.968465015480135
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":294,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"1 Hospital Ct",
+        "NAMEFULL":"RIVER VALLEY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.44447415690307,
+          43.12699801605303
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":295,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"820 Putney Rd",
+        "NAMEFULL":"RIVER VALLEY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.559956157201768,
+          42.878083016218589
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":296,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"34 Clinton St",
+        "NAMEFULL":"RIVER VALLEY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.477044158299748,
+          43.293395016359923
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":297,
+        "BRSERTYP":"Other",
+        "ADDRESS":"36 Chickering Dr",
+        "NAMEFULL":"RIVER VALLEY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.561301156502353,
+          42.877524016746477
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":298,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"5043 US Route 5",
+        "NAMEFULL":"ORLEX GOVERNMENT EMPLOYEES",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.167216164747572,
+          44.949044014598506
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":299,
+        "BRSERTYP":"Other",
+        "ADDRESS":"1364 Lake Region Rd",
+        "NAMEFULL":"ORLEX GOVERNMENT EMPLOYEES",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.224697163992403,
+          44.800262014220976
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":300,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"5043 US Route 5",
+        "NAMEFULL":"ORLEX GOVERNMENT EMPLOYEES",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.167216164747572,
+          44.949044014598506
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":301,
+        "BRSERTYP":"Other",
+        "ADDRESS":"1364 Lake Region Rd",
+        "NAMEFULL":"ORLEX GOVERNMENT EMPLOYEES",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.224697163992403,
+          44.800262014220976
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":302,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"109 VT Route 12 S",
+        "NAMEFULL":"WHITE RIVER",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.663570160441964,
+          43.910309014852466
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":303,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"330 N Main St",
+        "NAMEFULL":"WHITE RIVER",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.639069160172681,
+          43.836504014041218
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":304,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"96 N Main St",
+        "NAMEFULL":"WHITE RIVER",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.80838915985376,
+          43.875190014346821
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":305,
+        "BRSERTYP":"Other",
+        "ADDRESS":"Windsor Technology Park",
+        "NAMEFULL":"COVERED BRIDGE",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.384124159491691,
+          43.483754016043314
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":306,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"160 Main St",
+        "NAMEFULL":"COVERED BRIDGE",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.38780715916954,
+          43.476723015513656
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":307,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"3141 Cold River Rd",
+        "NAMEFULL":"GREEN MOUNTAIN",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.968701158303617,
+          43.589638014638084
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":308,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"4 Laurel Hill Dr",
+        "NAMEFULL":"GREEN MOUNTAIN",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.209153161665029,
+          44.441472013131516
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":309,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"1311 US Route 302",
+        "NAMEFULL":"GREEN MOUNTAIN",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.552224161083274,
+          44.227328015013995
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":310,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"2 S Main St",
+        "NAMEFULL":"CREDIT UNION OF VERMONT",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.972264159523064,
+          43.608614014146738
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":311,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"10 Browne Ct",
+        "NAMEFULL":"MEMBERS 1ST",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.553511155866076,
+          42.889014016610581
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":312,
+        "BRSERTYP":"Other",
+        "ADDRESS":"209 Veterans Ave",
+        "NAMEFULL":"NORTHEAST SCHOOLS AND HOSPITAL",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.20545016494296,
+          44.945498014422583
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":313,
+        "BRSERTYP":"Other",
+        "ADDRESS":"820 Putney Rd",
+        "NAMEFULL":"MEMBERS 1ST",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.559956157201768,
+          42.878083016218589
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":314,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"189 E Main St Ste C",
+        "NAMEFULL":"NORTHEAST SCHOOLS AND HOSPITAL",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.200217163992164,
+          44.942894013498773
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":315,
+        "BRSERTYP":"Other",
+        "ADDRESS":"1103 Hinman Settler Rd",
+        "NAMEFULL":"NORTHEAST SCHOOLS AND HOSPITAL",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.171513164509065,
+          44.831691013615647
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":316,
+        "BRSERTYP":"Other",
+        "ADDRESS":"366 Jambash Peak rd",
+        "NAMEFULL":"NORTHEAST SCHOOLS AND HOSPITAL",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.15515116486246,
+          44.968664013965082
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":317,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"560 S BARRE RD",
+        "NAMEFULL":"ONE",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.506772161947225,
+          44.174667014366925
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":318,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"380 RIVER ST",
+        "NAMEFULL":"ONE",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.508218158032591,
+          43.323048015789958
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":319,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"569 VT ROUTE 103 S",
+        "NAMEFULL":"ONE",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.580438158792504,
+          43.256120015605802
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":320,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"7 Green St",
+        "NAMEFULL":"ONE",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.251787160002763,
+          44.167836012763487
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":321,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"1 Market Pl UNIT 8",
+        "NAMEFULL":"ONE",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.133535162210777,
+          44.507734012435499
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":322,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"383 River St",
+        "NAMEFULL":"WINDSOR COUNTY SOUTH",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.507302158717295,
+          43.322028016166961
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":323,
+        "BRSERTYP":"Other",
+        "ADDRESS":"112 Wall St",
+        "NAMEFULL":"WINDSOR COUNTY SOUTH",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.475748158450415,
+          43.295743015744897
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":324,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"380 River St",
+        "NAMEFULL":"WINDSOR COUNTY SOUTH",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.508218158032591,
+          43.323048015789958
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":325,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"230 N Main St",
+        "NAMEFULL":"HERITAGE FAMILY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.97534715856861,
+          43.625339013951333
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":326,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"26 Allen St",
+        "NAMEFULL":"HERITAGE FAMILY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.967417158325645,
+          43.596502014803384
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":327,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"50 West St",
+        "NAMEFULL":"HERITAGE FAMILY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.976502158767062,
+          43.608206014137195
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":328,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"30 Allen St",
+        "NAMEFULL":"HERITAGE FAMILY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.967417158325645,
+          43.596502014803384
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":329,
+        "BRSERTYP":"Other",
+        "ADDRESS":"433 West St",
+        "NAMEFULL":"HERITAGE FAMILY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.000814159254972,
+          43.60444401493055
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":330,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"198 Main St",
+        "NAMEFULL":"HERITAGE FAMILY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.701240158433379,
+          43.396041015001288
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":331,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"67 Washington St",
+        "NAMEFULL":"HERITAGE FAMILY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.27198115892331,
+          43.59953201409926
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":332,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"2 W Seminary St",
+        "NAMEFULL":"HERITAGE FAMILY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.087381159738996,
+          43.801875013895064
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":333,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"22 Stratton Rd",
+        "NAMEFULL":"HERITAGE FAMILY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.956797158733352,
+          43.616183014484889
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":334,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"321 Park St",
+        "NAMEFULL":"HERITAGE FAMILY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.192861156018395,
+          42.885653015313373
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":335,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"206 Pleasant St",
+        "NAMEFULL":"HERITAGE FAMILY",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.194055155906867,
+          42.879131015108172
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":336,
+        "BRSERTYP":"Other",
+        "ADDRESS":"2176 Portland St Ste 1",
+        "NAMEFULL":"NORTHERN LIGHTS",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -71.977968163217938,
+          44.427955015155817
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":337,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"1004 Memorial Dr",
+        "NAMEFULL":"NORTHERN LIGHTS",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.015798163270929,
+          44.447057015804447
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":338,
+        "BRSERTYP":"Other",
+        "ADDRESS":"1 National Life Dr",
+        "NAMEFULL":"GRANITE HILLS",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.589463162313606,
+          44.257292014244172
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":339,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"328 N Main St",
+        "NAMEFULL":"GRANITE HILLS",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.506358161172756,
+          44.201246014573123
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":340,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"1 National Life Dr",
+        "NAMEFULL":"GRANITE HILLS",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.589463162313606,
+          44.257292014244172
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":341,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"328 N Main St",
+        "NAMEFULL":"GRANITE HILLS",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.506358161172756,
+          44.201246014573123
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":342,
+        "BRSERTYP":"Other",
+        "ADDRESS":"134 Fisher Rd",
+        "NAMEFULL":"CENTRAL VERMONT MEDICAL CENTER,INC.",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.562373161684619,
+          44.220398014659764
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":343,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"130 Fisher Rd",
+        "NAMEFULL":"CENTRAL VERMONT MEDICAL CENTER,INC.",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.561492161778318,
+          44.219722014278531
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":344,
+        "BRSERTYP":"Other",
+        "ADDRESS":"101 Church Rd",
+        "NAMEFULL":"ST. PATRICK S PARISH",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.946460163706817,
+          44.803211013146544
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":345,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"4552 VT Route 36",
+        "NAMEFULL":"ST. PATRICK S PARISH",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.943516162912701,
+          44.801710012936027
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":346,
+        "BRSERTYP":"Corporate Office",
+        "ADDRESS":"25 Winooski Falls Way",
+        "NAMEFULL":"OPPORTUNITIES",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.18331916218014,
+          44.490252013535432
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "OBJECTID":347,
+        "BRSERTYP":"Branch Office",
+        "ADDRESS":"92 North Ave",
+        "NAMEFULL":"OPPORTUNITIES",
+        "INSTTYPE":"CUNION"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.222180160987321,
+          44.484259013016391
+        ]
+      }
+    }
+  ]
+}
