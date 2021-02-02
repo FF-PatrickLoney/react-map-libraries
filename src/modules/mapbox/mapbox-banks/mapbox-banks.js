@@ -7,9 +7,9 @@ import { useStyles } from './mapbox-banks.styles';
 
 export const MapboxBanks = () => {
   const [viewport, setViewport] = useState({
-    latitude: 44.5588,
-    longitude: -72.5778,
-    zoom: 8,
+    latitude: 39.0119,
+    longitude: -98.4842,
+    zoom: 4.5,
     width: '100%',
     height: '100%',
   });
@@ -51,7 +51,7 @@ export const MapboxBanks = () => {
         onViewportChange={(viewport) => {
           setViewport(viewport);
         }}
-        mapStyle="mapbox://styles/patrick-ff/ckjx5q8ab1f5q17qz781c2qn4"
+        mapStyle="mapbox://styles/patrick-ff/ckkna66zt5iqq17pelkus63l1"
       >
         {banksData.features.map((bank) => (
           <Marker

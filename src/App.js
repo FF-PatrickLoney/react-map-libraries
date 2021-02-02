@@ -3,6 +3,7 @@ import { Layout, Menu } from 'antd';
 import 'antd/dist/antd.css';
 
 import { MapboxContainer } from './modules/mapbox/mapbox-container';
+import { SimpleMaps } from './modules/simple-maps/simple-maps';
 import { useStyles } from './app.styles';
 
 const { Header, Content, Footer } = Layout;
@@ -37,7 +38,7 @@ const App = () => {
                   <div>Leaflet</div>
                 </Route>
                 <Route path="/simple-maps">
-                  <div>Simple Maps</div>
+                  <SimpleMaps />
                 </Route>
               </Switch>
             </div>
