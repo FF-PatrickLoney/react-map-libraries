@@ -29,7 +29,7 @@ const App = () => {
               </Menu.Item>
             </Menu>
           </Header>
-          <Content style={{ padding: '0 50px' }} className={root}>
+          <Content className={root}>
             <div className="site-layout-content">
               <Switch>
                 <Route exact path="/">
