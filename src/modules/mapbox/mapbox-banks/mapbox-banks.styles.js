@@ -15,5 +15,15 @@ export const useStyles = createUseStyles(() => ({
       width: '30px',
       height: '30px',
     },
+    '& .cluster-marker': {
+      color: '#1978c8',
+      background: '#fff',
+      borderRadius: '50%',
+      padding: 10,
+      display: 'flex',
+      justifyContent: 'center',
+      alignItems: 'center',
+      cursor: 'pointer',
+    },
   },
 }));

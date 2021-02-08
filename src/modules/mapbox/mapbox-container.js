@@ -12,11 +12,11 @@ export const MapboxContainer = () => {
   return (
     <div className={root}>
       <Tabs defaultActiveKey="1">
-        <TabPane tab="Skateparks" key="1">
-          <MapboxSkateparks />
-        </TabPane>
-        <TabPane tab="Banks" key="2">
+        <TabPane tab="Banks" key="1">
           <MapboxBanks />
+        </TabPane>
+        <TabPane tab="Skateparks" key="2">
+          <MapboxSkateparks />
         </TabPane>
       </Tabs>
     </div>

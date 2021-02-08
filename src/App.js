@@ -1,6 +1,7 @@
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 import { Layout, Menu } from 'antd';
 import 'antd/dist/antd.css';
+import 'mapbox-gl/dist/mapbox-gl.css';
 
 import { MapboxContainer } from './modules/mapbox/mapbox-container';
 import { SimpleMaps } from './modules/simple-maps/simple-maps';
