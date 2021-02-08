@@ -26,7 +26,7 @@ export const SimpleMaps = () => {
               key={`${bank.properties.title} ${index}`}
               coordinates={[bank.geometry.coordinates[0], bank.geometry.coordinates[1]]}
             >
-              <circle r={8} fill="#0000FF	" />
+              <circle r={2} fill="#0000FF	" />
             </Marker>
           ))}
         </ZoomableGroup>
